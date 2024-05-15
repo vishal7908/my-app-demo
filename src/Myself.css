@@ -1,0 +1,7 @@
+div.myself {
+  border: solid 2px orangered;
+  width: 1083px;
+}
+div .myself p {
+  color: orange;
+}
